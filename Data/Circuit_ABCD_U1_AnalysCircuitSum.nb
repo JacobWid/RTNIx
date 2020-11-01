@@ -1,0 +1,1 @@
+circuitSum = 0+1*(1*Tr[(ArrayFlatten[A\[TensorProduct]A])e\[ConjugateTranspose](ArrayFlatten[A\[TensorProduct]A])e]*Tr[(ArrayFlatten[A\[TensorProduct]A])e\[ConjugateTranspose](ArrayFlatten[A\[TensorProduct]A])e]);
