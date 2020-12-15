@@ -106,7 +106,7 @@ class RTNx:
             i += 1
 
         if(dimArrLen%2==1):
-            newNumberOrderArray.append(dimArrLen)
+            newNumberOrderArray.append(dimArrLen -1)
         print(newNumberOrderArray)
 
 
